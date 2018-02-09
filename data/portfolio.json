@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/tccc-unity/",
+    "thumb": "assets/img/portfolio/tcccUnity.jpg",
+    "alt": "TCCC Unity",
+    "title": "The Coca-Cola Company<br/>The New Unity Typeface",
+    "tracking": ""
+  },
+  {
+    "id": 2,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/bbrot/",
+    "thumb": "assets/img/portfolio/buddhabrot.jpg",
+    "alt": "Buddhabrot",
+    "title": "Buddhabrot<br/>AR enhanced book",
+    "tracking": "2D"
+  },
+  {
+    "id": 3,
+    "groups": "twod,slam,glasses",
+    "url": "https://mediagrand.co.uk/foi17/",
+    "thumb": "assets/img/portfolio/forest17.jpg",
+    "alt": "Forest of Imagination",
+    "title": "Forest of Imagination<br/>2017",
+    "tracking": "2D, SLAM, Smart-Glasses"
+  },
+  {
+    "id": 4,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/tate/",
+    "thumb": "assets/img/portfolio/tate.jpg",
+    "alt": "Tate",
+    "title": "Tate:Re-Live<br/>AR enhanced book",
+    "tracking": "2D"
+  },
+  {
+    "id": 5,
+    "groups": "twod,slam",
+    "url": "https://mediagrand.co.uk/foi16/",
+    "thumb": "assets/img/portfolio/forest.jpg",
+    "alt": "Forest of Imagination",
+    "title": "Forest of Imagination<br/>2016",
+    "tracking": "2D, SLAM"
+  },
+  {
+    "id": 6,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/amex/",
+    "thumb": "assets/img/portfolio/amex.jpg",
+    "alt": "American Express",
+    "title": "Amex Offers<br/>Exhibition AR game",
+    "tracking": "2D"
+  },
+  {
+    "id": 7,
+    "groups": "twod,object,glasses",
+    "url": "https://mediagrand.co.uk/bae/",
+    "thumb": "assets/img/portfolio/bae.jpg",
+    "alt": "BAE Systems",
+    "title": "BAE Systems<br/>AR concept",
+    "tracking": "2D, 3D Object, Smart-Glasses"
+  },
+  {
+    "id": 8,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/celesio/",
+    "thumb": "assets/img/portfolio/celesio.jpg",
+    "alt": "Celesio",
+    "title": "Celesio<br/>Exhibition AR driving game",
+    "tracking": "2D"
+  },
+  {
+    "id": 9,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/webexpenses/",
+    "thumb": "assets/img/portfolio/webexpenses.jpg",
+    "alt": "Webexpenses",
+    "title": "Webexpenses<br/>Exhibition AR game",
+    "tracking": "2D"
+  },
+  {
+    "id": 10,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/gsma/",
+    "thumb": "assets/img/portfolio/gsma.jpg",
+    "alt": "GSMA",
+    "title": "GSMA<br/>AR enhanced book",
+    "tracking": "2D"
+  },
+  {
+    "id": 11,
+    "groups": "twod,slam",
+    "url": "https://mediagrand.co.uk/all4design/",
+    "thumb": "assets/img/portfolio/all4ar.jpg",
+    "alt": "All 4 Design",
+    "title": "All 4 Design<br/>B2B AR viewer",
+    "tracking": "2D, SLAM"
+  },
+  {
+    "id": 12,
+    "groups": "object,glasses",
+    "url": "https://mediagrand.co.uk/hp/",
+    "thumb": "assets/img/portfolio/hp.jpg",
+    "alt": "Hewlett Packard",
+    "title": "Hewlett Packard<br/>AR assisted maintenance",
+    "tracking": "3D Object, Smart-Glasses"
+  },
+  {
+    "id": 13,
+    "groups": "twod,location",
+    "url": "https://mediagrand.co.uk/buckinghamshire-new-university/",
+    "thumb": "assets/img/portfolio/bucks.jpg",
+    "alt": "Buckinghamshire New University",
+    "title": "Buckinghamshire New University<br/>AR Browser",
+    "tracking": "2D, Geolocation"
+  },
+  {
+    "id": 14,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/jisc/",
+    "thumb": "assets/img/portfolio/connect.jpg",
+    "alt": "Jisc",
+    "title": "JISC<br/>Exhibition AR game",
+    "tracking": "2D"
+  },
+  {
+    "id": 15,
+    "groups": "face",
+    "url": "https://mediagrand.co.uk/simman/",
+    "thumb": "assets/img/portfolio/simman.jpg",
+    "alt": "SHU",
+    "title": "Sheffield Hallam University<br/>AR nurse training",
+    "tracking": "Face"
+  },
+  {
+    "id": 16,
+    "groups": "twod,slam",
+    "url": "https://mediagrand.co.uk/pikcells/",
+    "thumb": "assets/img/portfolio/slcgi.jpg",
+    "alt": "pikcells",
+    "title": "Shadowlight Pikcells<br/>AR kitchen designer",
+    "tracking": "2D, SLAM"
+  },
+  {
+    "id": 17,
+    "groups": "twod",
+    "url": "https://mediagrand.co.uk/aura-long-road/",
+    "thumb": "assets/img/portfolio/aura.jpg",
+    "alt": "Aura Long Road",
+    "title": "Aura Long Road<br/>AR real estate viewer",
+    "tracking": "2D"
+  },
+  {
+    "id": 18,
+    "groups": "object",
+    "url": "https://mediagrand.co.uk/bmt/",
+    "thumb": "assets/img/portfolio/bmt-aegir.jpg",
+    "alt": "BMT",
+    "title": "BMT Defence Services<br>AR exhibition model",
+    "tracking": "3D Object"
+  },
+  {
+    "id": 19,
+    "groups": "twod,location",
+    "url": "https://mediagrand.co.uk/dcc/",
+    "thumb": "assets/img/portfolio/dcc.jpg",
+    "alt": "Denbigshire County Council",
+    "title": "Discover Denbighshire<br/>AR tourism",
+    "tracking": "2D, Geolocation"
+  },
+  {
+    "id": 20,
+    "groups": "location",
+    "url": "https://mediagrand.co.uk/lions-of-bath/",
+    "thumb": "assets/img/portfolio/lions.jpg",
+    "alt": "Lions of Bath",
+    "title": "Lions of Bath<br>AR Safari",
+    "tracking": "Geolocation"
+  }
+]

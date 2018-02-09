@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "headerImg": "assets/img/commercialAR.jpg",
+    "title": "AR Assisted Product Maintenance & Service",
+    "description": "Improve Productivity - Reduce Errors - IoT Ready – Future Focused"
+  },
+  {
+    "id": 2,
+    "headerImg": "assets/img/eventsAR.jpg",
+    "title": "Ground-Breaking Bespoke AR Concepts",
+    "description": "We pride ourselves on creating world-firsts in the field of AR"
+  },
+  {
+    "id": 3,
+    "headerImg": "assets/img/creativeAR.jpg",
+    "title": "The Next Industrial Revolution Is Here",
+    "description": "AR is already changing the way we live and work"
+  }
+]
