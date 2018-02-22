@@ -16,7 +16,6 @@ class Products extends Component {
       window.scrollTo(0, 0);
   }
 
-//const Products = (props) => {
 
 
  render() {

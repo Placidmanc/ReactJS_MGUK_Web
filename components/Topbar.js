@@ -14,7 +14,6 @@ const Topbar = (props) => {
           </a>
         </div>
 
-        {/* Main Navigation Component */}
         <Navigation />
 
       </div>

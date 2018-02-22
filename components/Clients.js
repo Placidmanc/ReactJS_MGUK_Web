@@ -1,5 +1,5 @@
 import React from 'react';
-//import ClientItem from './ClientItem'
+
 
 
 const ClientItem = (item: Item) => {

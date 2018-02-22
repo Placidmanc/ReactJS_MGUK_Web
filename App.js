@@ -13,8 +13,6 @@ import Products from './components/Products';
 import Portfolio from './components/Portfolio';
 
 
-
-// data
 import swiperData from './data/swiper.json'
 import clientsData from './data/clients.json'
 
@@ -34,27 +32,19 @@ class App extends Component {
 
   render() {
     return (
-
-
         <Router onUpdate={() => window.scrollTo(0, 0)}>
-
           <div>
 
-            {/* Include topbar & Navigation for every page */}
             <Topbar />
-
             <Switch>
-
-                {/* Home */}
                 <Route exact path="/" render={(props) => (
                     <div>
-
                       <Swiper feeds={this.swiperFeed} />
 
                       <main className="main-content">
                         <Welcome />
                         <About />
-                        <Clients  feeds={this.clientsFeed} />
+                        <Clients feeds={this.clientsFeed} />
                         <Subscribe />
                         <TwitterGrid />
                         <Contact />

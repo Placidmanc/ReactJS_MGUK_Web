@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = (props) => {
+const About = () => {
   return(
     <section className="section section-inverse bg-img py-150" style={{backgroundImage: `url(assets/img/bg-bath.jpg)`}} data-overlay="8" id="about">
 			<div className="container">

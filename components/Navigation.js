@@ -2,7 +2,7 @@ import React from 'react';
 // import { Link } from 'react-router-dom'
 import { HashLink as Link } from 'react-router-hash-link';
 
-const Navigation = (props) => {
+const Navigation = () => {
   return(
     <div className="topbar-right">
       <ul className="topbar-nav nav">
